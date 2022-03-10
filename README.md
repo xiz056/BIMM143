@@ -1,2 +1,2 @@
 # BIMM143
-WI22 Bioinformatics at UCSD.
+WI22 Bioinformatics at UC San Diego.
